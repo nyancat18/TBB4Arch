@@ -35,5 +35,5 @@ GPLv3. See [LICENSE](LICENSE)
 
 ## Donations
 Donations are welcome and keep me motivated :-)
-* BTC: `1LqQ4xvyDzz9k32ZtqL3wTRPPcwHjxTcF1`
-* LTC: `LVz5bCFYKhN9SYyeP9aKZMJmayRVDRzZX7`
+* BTC: `19RPRxUV8p6ZTfrgR3AiwDhHoitqCE3sCr`
+* LTC: `LUsJB7ZwtDzuexQhBT48tHTM8SsqxjqdMX`
